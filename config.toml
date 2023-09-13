@@ -3,7 +3,7 @@ languageCode = "en-AU"
 title = "Flinging Monkey"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
+# Enable Google Analytics b y entering your tracking code
 # googleAnalytics = ""
 theme = "hugo-sustain"
 
